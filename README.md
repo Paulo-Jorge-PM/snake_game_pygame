@@ -17,7 +17,7 @@ To run the source code like a boss the only requirement is:
 -Pygame (don't remeber what version I used at the time, but the current one in 2018 seems to be working ok)
 
 To get pygame just install it through the comand line with:
-```pip install pyglet
+```pip install pygame
 ```
 
 Then just run the file "main.py". 

@@ -1,6 +1,6 @@
 # Snake game clone in Pygame
 
-![screeshot](http://www.paulojorgepm.net/static/images/snake_game_pygame.jpg)
+![screeshot](snake_game_pygame.jpg)
 
 I made this when I was studying Pygame many years ago: it is a clone of the Snake game, done in Python with the SDL library Pygame. Note: it works, but I never finished it (no score count, no boundaries logic, no start or end screen). 
 

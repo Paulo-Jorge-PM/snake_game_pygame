@@ -1,4 +1,6 @@
-# Snake game clone in Pygame
+# Snake game clone in Pygame (Python SDL)
+
+Video preview: https://youtu.be/uaXgmDN2RYQ
 
 ![screeshot](snake_game_pygame.jpg)
 
